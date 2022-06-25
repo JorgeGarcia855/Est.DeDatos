@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVL Tree y BST (Arboles AVL y Busqueda Binaria)/AVL Tree y BST (Arboles AVL y Busqueda Binaria).iml" filepath="$PROJECT_DIR$/AVL Tree y BST (Arboles AVL y Busqueda Binaria)/AVL Tree y BST (Arboles AVL y Busqueda Binaria).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad5/Actividad5.iml" filepath="$PROJECT_DIR$/Actividad5/Actividad5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Actividades_C1/Actividades_C1.iml" filepath="$PROJECT_DIR$/Actividades_C1/Actividades_C1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Other/Other.iml" filepath="$PROJECT_DIR$/Other/Other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arboles Narios, 234 y BB+/Arboles Narios, 234 y BB+.iml" filepath="$PROJECT_DIR$/Arboles Narios, 234 y BB+/Arboles Narios, 234 y BB+.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio6/Ejercicio6.iml" filepath="$PROJECT_DIR$/Ejercicio6/Ejercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio7/Ejercicio7.iml" filepath="$PROJECT_DIR$/Ejercicio7/Ejercicio7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grafos/Grafos.iml" filepath="$PROJECT_DIR$/Grafos/Grafos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoA/ProyectoA.iml" filepath="$PROJECT_DIR$/ProyectoA/ProyectoA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoA2/ProyectoA2.iml" filepath="$PROJECT_DIR$/ProyectoA2/ProyectoA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoC/ProyectoC.iml" filepath="$PROJECT_DIR$/ProyectoC/ProyectoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectoD/ProyectoD.iml" filepath="$PROJECT_DIR$/ProyectoD/ProyectoD.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" filepath="$PROJECT_DIR$/SortingAlgorithms/SortingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJsonWriter/TestJsonWriter.iml" filepath="$PROJECT_DIR$/TestJsonWriter/TestJsonWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Warshall/Warshall.iml" filepath="$PROJECT_DIR$/Warshall/Warshall.iml" />
     </modules>
   </component>
 </project>
